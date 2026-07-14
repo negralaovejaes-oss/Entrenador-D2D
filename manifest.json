@@ -1,0 +1,22 @@
+{
+  "short_name": "Simulador D2D",
+  "name": "Entrenador de Ventas D2D Canarias",
+  "description": "Simulador interactivo de entrenamiento comercial de puerta fría.",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#030712",
+  "theme_color": "#090d16",
+  "display": "standalone",
+  "orientation": "portrait"
+}
